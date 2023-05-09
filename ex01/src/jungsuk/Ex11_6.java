@@ -1,5 +1,6 @@
 package jungsuk;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Ex11_6 {
@@ -50,4 +51,6 @@ public class Ex11_6 {
 	System.out.println("index of B="+Arrays.binarySearch(chArr,'B'));
 	
 	}
+	
+	
 }
